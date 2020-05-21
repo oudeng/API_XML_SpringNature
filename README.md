@@ -10,6 +10,7 @@ https://dev.springernature.com/signup.
 registerred by WasedaID of Ou,DENG, got necessary API.
 
 How to use?
+
 0) Please registered your API key for SpringerNature, easily at following url. Then put it in Python code "api_key". Easily find the place if you review the code.
    https://www.springernature.com/gp/campaign/librarian-covid-tdm?sap-outbound-id=64AF2B62DCE26C591DAA9263090CDAF763E0CD1F
 1) Run this program in Python eviroment, including bs4 and requests lib.
@@ -20,8 +21,10 @@ How to use?
 5) Copy url of artitle you like in results, use broswer to read PDF.
  
 Can use for other API?
+
 Yes. By modifying base_url, api_key, total and content identification tags.
 Just confirm the url you try in other API. 
 
 Can for JSON?
+
 No, this programe for XML only.
